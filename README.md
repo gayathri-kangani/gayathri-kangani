@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gayathri-kangani
-- 👀 I’m interested in coding
+- 👀 I’m interested in designing
 - 🌱 I’m currently learning depths of computer science
 - 💞️ I’m looking to collaborate on web dev projects
 
